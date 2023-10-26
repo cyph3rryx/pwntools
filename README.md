@@ -49,7 +49,7 @@ However, some of the features (assembling/disassembling foreign architectures) r
 
 # Contribution
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+Thank you for your interest in contributing to pwntools! We welcome contributions from the open-source community to help improve and expand our project. To contribute in the project see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Contact and Community
 If you have any questions not worthy of a [bug report](https://github.com/Gallopsled/pwntools/issues), join the Discord server at https://discord.gg/96VA2zvjCB
